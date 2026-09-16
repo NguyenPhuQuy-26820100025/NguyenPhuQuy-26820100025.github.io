@@ -32,7 +32,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 | … | … | … | …/…/… |
 | 3 | … | … | … | …/…/… |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
+Ảnh chụp màn hình ba tin lưu trong [thư mục anh/](./anh).
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
