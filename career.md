@@ -29,7 +29,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 | Công ty TNHH BTASKEE | TP Hồ Chí Minh | https://share.google/XpnLFAHbNInwe9E4b | 15/09/2026 |
 | 3 | Công ty TNHH Tư Vấn Nhân Sự Kokoro | TP Hồ Chí Minh | https://share.google/AUwYoG7wxNA98EZrJ | 15/09/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
+Ảnh chụp màn hình ba tin lưu trong [thư mục anh/](./anhdontuyenviec).
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
