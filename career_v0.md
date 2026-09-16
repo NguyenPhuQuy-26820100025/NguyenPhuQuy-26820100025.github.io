@@ -33,6 +33,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 3 | … | … | … | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong [thư mục anh/](./anh).
+- [ 1](anh/tin1.jpg)
+- [ 2](anh/tin2.png)
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
