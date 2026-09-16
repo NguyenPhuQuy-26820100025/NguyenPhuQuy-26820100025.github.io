@@ -49,15 +49,15 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Chỉ là thu thập dữ liệu thô, Vị trí không định danh và chỉ mang tính nhất thời vì deadline ngày mai, không ảnh hưởng tới lâu dài.
+- Phía người dùng lập luận rằng:Cảm giác như bị giám sát tạm thời, yêu cầu ngừng ngay chính sách và tuân thủ các nguyên tắc đã thỏa thuận giữa hai bên. 
+- **Quyết định của tôi**, và vì sao: Nếu tôi là thành viên của công ty toioi sẽ yêu cầu hỏi người dùng một cách trực tiếp và nhanh nhất để nghe ý kiến người dùng, còn nếu tôi là người dùng thì sẽ không chấp nhận sự việc này.
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Hoàn thành tốt các nội dung chương trình học.
+2. Cải thiện tiếng anh bản thân.
+3. Học cách sử dụng và điều khiển AI một cách hợp lí, tối ưu.
 
 Cụ thể tới mức tháng sau kiểm được.
 
