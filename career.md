@@ -65,9 +65,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Đưa 3 tin tuyển dụng cho AI yêu cầu AI phân tích và làm theo bản mẫu có sẵn. |
+| **Hoài** | Hoài nghi dữ liệu mà AI đã cung cấp, có vài dòng mà AI đã tự thêm vô vì nhầm lẫn các kí tự trong văn bản |
+| **Học** | Học cách đặt câu hỏi cho AI, nguồn này trong thông tin đưa hay bạn tự thêm vào, hỏi AI các chi tiết trong thông tin tuyển dụng, hỏi AI bạn sẽ trả lời như thế nào nếu bạn là luật sư của công ty hay là người dùng sản phẩm. |
+| **Hành** | Tự tay rà soát lại toàn bộ thông tin, chỉnh sửa lại những chỗ AI bịa ra, nhưng thông tin không liên quan |
 
 Công cụ đã dùng: Gemini Pro.
