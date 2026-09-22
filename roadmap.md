@@ -98,9 +98,7 @@ Kỹ sư dữ liệu.
 | 7 | AIT109 | Xử lý ngôn ngữ tự nhiên và ứng dụng | 3 |
 | 8 | COS464 | Đồ án chuyên ngành Khoa học máy tính | 3 |
 | 8 | COS570 | Thực tập tốt nghiệp ngành Khoa học máy tính | 3 |
-| 8 | AIT123 | Mô hình ngôn ngữ lớn | 3 |
-| 8 | CMP1049 | Khai thác dữ liệu | 3 |
-| 8 | COS4012 | Đồ án tốt nghiệp Khoa học máy tính | 3 |
+| 8 | COS4012 | Đồ án tốt nghiệp Khoa học máy tính | 9 |
 
 **Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
