@@ -110,7 +110,7 @@ Khi các thành viên có ý kiến khác nhau, nhóm sẽ lắng nghe từng ý
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
 
-…
+Chúng tôi đã cãi nhau ở chỗ mọi người không tập trung khi làm việc, một người ngồi thuyết trình nhưng chỉ có một số thành viên nghe, còn lại thì không tập trung, điều đấy khiến cho mọi người rất khó chịu khi phải giảng lại việc cho người không nghe đấy, rất tốn thời gian của nhóm.
 
 ## Tôi đã làm việc với AI thế nào
 
