@@ -7,7 +7,7 @@ title: Cẩm nang làm việc nhóm
 > **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
 > nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:**  Anyone is legend · **Thành viên:** Phú Quý, Tâm Như, Hữu Đức, Minh Khang, Trung Sỹ.
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -17,37 +17,38 @@ title: Cẩm nang làm việc nhóm
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** …
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Cả nhóm đang gần trễ hạn bài tập.
 
-**Vấn đề thật (sau khi bóc):** …
+**Vấn đề thật (sau khi bóc):** Mọi người làm việc chưa thực sự hiểu ý với nhau.
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Phú Quý *
 
 ### 2. Cách đo và số liệu
 
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
-**Cách đo:** … · **Số ngày đo:** … · **Số người tham gia đo:** …
+**Cách đo:** Dựa trên tiến độ hoàn thành bài tập của nhóm  · **Số ngày đo:** 5 · **Số người tham gia đo:** 5
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| … | … | … |
-| … | … | … |
-| … | … | … |
+| 26/9 | Không có số liệu | Mọi người có lí do không đến được và một số lí do đột xuất |
+| 27/9 | Chia được nhiệm vụ riêng của mỗi người, mọi người chính thức có công việc riêng của cá nhân, team bắt đầu hoạt động trơn tru, có trách nhiệm hơn, buổi họp sôi nổi. | Mọi người đã bắt đầu thấy thoải mái và làm việc dần ăn ý. |
+| 28/9 | Các thành viên hiểu ý, bài tập nhóm xử lí trơn tru hơn. | Một team sẽ hoạt động năng suất khi các thành viên hiểu ý với nhau |
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Phú Quý *
 
 ### 3. Nguyên nhân gốc
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao [vấn đề xảy ra]? → …
-2. Vì sao [câu trả lời 1]? → …
-3. Vì sao [câu trả lời 2]? → …
-4. Vì sao [câu trả lời 3]? → …
-5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
+1. Vì sao [vấn đề xảy ra]? → 
+2. Vì sao [câu trả lời 1]? →  Vì các thành viên chưa hoàn thành phần việc được giao đúng thời hạn.
 
-*Người viết phần này: …*
+3. Vì sao [câu trả lời 2]? → Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
+4. Vì sao [câu trả lời 3]? → Vì nhóm chưa phân công công việc của từng người cụ thể và thống nhất thời hạn một cách rõ ràng ngay từ đầu.
+5. Vì sao [câu trả lời 4]? → Vì mọi người thiếu sự phối hợp, trách nhiệm và quản lí công việc của từng người trong nhóm. *(nguyên nhân gốc)*
+
+*Người viết phần này: Trần Trung Sỹ *
 
 ### 4. Ba giải pháp đã thử
 
@@ -89,9 +90,9 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
 
-…
+Họp ở sân trường ĐH Hutech, mỗi ngày một lần, mỗi lần 60 phút, sau cuối mỗi buổi họp thì trưởng nhóm sẽ đưa ra kết luận.
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Phú Quý *
 
 ## 4. Khi một người mất tích
 
@@ -101,9 +102,9 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 
 ## 5. Khi bất đồng thì quyết thế nào
 
-…
+Khi các thành viên có ý kiến khác nhau, nhóm sẽ lắng nghe từng ý kiến của mỗi người trong nhóm để phân tích ưu/nhược điểm của mỗi ý kiến được đưa ra, từ đó có thể chọn được ý kiến tối ưu nhất. Nếu vẫn chưa chọn được ý kiến nào thì sẽ đưa ra phương án bình chọn và dựa trên số lượng mỗi người đồng ý với ý kiến nào để có thể thống nhất 1 phương án làm việc chung. 
 
-*Người viết phần này: …*
+*Người viết phần này: Trần Trung Sỹ*
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
