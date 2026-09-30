@@ -12,7 +12,7 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+Nguyễn Phú Quý có thể là tên của một số nhân vật nổi bật tại Việt Nam, bao gồm nam ca sĩ dòng nhạc trữ tình/bolero (thường viết là Nguyễn Phú Quí) hoặc doanh nhân trong lĩnh vực du lịch, bất động sản.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
@@ -25,13 +25,13 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
-| 2 | Năng lực thông tin và dữ liệu | … | … |
-| 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
-| 4 | Sáng tạo nội dung số | … | … |
-| 5 | An ninh và an toàn trên không gian mạng | … | … |
-| 6 | Học tập và phát triển kỹ năng số | … | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | … | … |
+| 1 | Vận hành thiết bị và phần mềm | Đang tập | Chỉ mới tập sử dụng máy tính( laptop) chưa đầy một tháng nên còn rất nhiều chỗ cần học thêm. | 
+| 2 | Năng lực thông tin và dữ liệu | Đang tập |  |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Chưa có | … |
+| 4 | Sáng tạo nội dung số | Chưa có | … |
+| 5 | An ninh và an toàn trên không gian mạng | Dùng lại được | … |
+| 6 | Học tập và phát triển kỹ năng số | Đang tập | … |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Đang tập | … |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
