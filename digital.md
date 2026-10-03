@@ -4,12 +4,6 @@ title: Dấu chân số của tôi
 
 # Dấu chân số của tôi
 
-> **Bài 4 · Xoá dòng này khi nộp.**
-> **CẢNH BÁO QUAN TRỌNG:** trang này công khai, ai cũng đọc được.
-> Tuyệt đối không đưa lên đây ảnh có mã xác thực, số điện thoại, địa chỉ nhà,
-> hay bất cứ thứ gì em không muốn một người lạ nhìn thấy sau bốn năm.
-> Ảnh chụp bằng chứng nộp riêng qua ô nộp bài thứ hai trên LMS.
-
 ## Tôi tự tìm tên mình và thấy gì
 
 Nguyễn Phú Quý có thể là tên của một số nhân vật nổi bật tại Việt Nam, bao gồm nam ca sĩ dòng nhạc trữ tình/bolero (thường viết là Nguyễn Phú Quí) hoặc doanh nhân trong lĩnh vực du lịch, bất động sản.
@@ -26,18 +20,18 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
 | 1 | Vận hành thiết bị và phần mềm | Đang tập | Chỉ mới tập sử dụng máy tính( laptop) chưa đầy một tháng nên còn rất nhiều chỗ cần học thêm. | 
-| 2 | Năng lực thông tin và dữ liệu | Đang tập |  |
-| 3 | Giao tiếp và hợp tác trong môi trường số | Chưa có | … |
-| 4 | Sáng tạo nội dung số | Chưa có | … |
-| 5 | An ninh và an toàn trên không gian mạng | Dùng lại được | … |
-| 6 | Học tập và phát triển kỹ năng số | Đang tập | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | Đang tập | … |
+| 2 | Năng lực thông tin và dữ liệu | Dùng được | Biết tìm được những thông tin chính xác, đáng tin cậy trên mạng xã hội thông qua nhận diện được các dấu hiệu bất thường của thông tin như: thông tin quá chung chung, quá ngắn, thiếu sự rõ ràng... để loại bỏ những nguồn thông tin sai đấy. Biết dựa và tên miền, link của các trang thông tin chính thống để khai thác dữ liệu một cách hiệu quả, an toàn. |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Biết sử dụng các công cụ như Google Meet, Zalo, Discord... để giao tiếp, học tập, làm việc nhóm với bạn bè. Sử dụng cái công cụ chung như Word, Google Form để làm bái cáo, đọc tài liệu, làm dự án nhóm. |
+| 4 | Sáng tạo nội dung số | Chưa có | Chưa từng thử hay làm những việc liên quan đến sáng tạo nội dung số. |
+| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Nhận diện được các dấu hiệu lừa đảo trên mạng, đăng những nội dung hợp lí trên mạng xã hội, không lộ thông tin cá nhân, các tài khoản như Github, Google có bảo mật 2 lớp. |
+| 6 | Học tập và phát triển kỹ năng số | Đang tập | Chưa tự học những công cụ mới, vẫn còn chờ người khác dạy lại quá nhiều, khả năng cập nhật khi công nghệ thay đổi vẫn còn ở mức khá. |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Đang tập | Chỉ mới biết dùng Github, chưa có biết kĩ những công cụ đặc thù của ngành mình, chưa hiểu kĩ những kỹ năng đặc thù của ngành mình theo học. |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
-2. …
-3. …
+1. Chủ động tìm tòi, học sử dụng những công cụ mới, không phụ thuộc vào người khác.
+2. Không chỉ dùng Github mà còn phải hiểu được nó, không chỉ Github mà còn các ứng dụng khác như Google, Facebook, các công cụ của Google.
+3. Sửa lại cách quản lí dữ liệu, Phân chia dữ liệu ra một cách hợp lí, dễ tìm kiếm khi cần.
 
 ## Tôi đã làm việc với AI thế nào
 
