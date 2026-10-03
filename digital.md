@@ -21,7 +21,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 |---|---|---|---|
 | 1 | Vận hành thiết bị và phần mềm | Đang tập | Chỉ mới tập sử dụng máy tính( laptop) chưa đầy một tháng nên còn rất nhiều chỗ cần học thêm. | 
 | 2 | Năng lực thông tin và dữ liệu | Dùng được | Biết tìm được những thông tin chính xác, đáng tin cậy trên mạng xã hội thông qua nhận diện được các dấu hiệu bất thường của thông tin như: thông tin quá chung chung, quá ngắn, thiếu sự rõ ràng... để loại bỏ những nguồn thông tin sai đấy. Biết dựa và tên miền, link của các trang thông tin chính thống để khai thác dữ liệu một cách hiệu quả, an toàn. |
-| 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Biết sử dụng các công cụ như Google Meet, Zalo, Discord... để giao tiếp, học tập, làm việc nhóm với bạn bè. Sử dụng cái công cụ chung như Word, Google Form để làm bái cáo, đọc tài liệu, làm dự án nhóm. |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Đang tập | Biết sử dụng các công cụ như Google Meet, Zalo, Discord... để giao tiếp, học tập, làm việc nhóm với bạn bè. Sử dụng cái công cụ chung như Word, Google Form để làm bái cáo, đọc tài liệu, làm dự án nhóm. |
 | 4 | Sáng tạo nội dung số | Chưa có | Chưa từng thử hay làm những việc liên quan đến sáng tạo nội dung số. |
 | 5 | An ninh và an toàn trên không gian mạng | Dùng được | Nhận diện được các dấu hiệu lừa đảo trên mạng, đăng những nội dung hợp lí trên mạng xã hội, không lộ thông tin cá nhân, các tài khoản như Github, Google có bảo mật 2 lớp. |
 | 6 | Học tập và phát triển kỹ năng số | Đang tập | Chưa tự học những công cụ mới, vẫn còn chờ người khác dạy lại quá nhiều, khả năng cập nhật khi công nghệ thay đổi vẫn còn ở mức khá. |
@@ -29,9 +29,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. Chủ động tìm tòi, học sử dụng những công cụ mới, không phụ thuộc vào người khác.
-2. Không chỉ dùng Github mà còn phải hiểu được nó, không chỉ Github mà còn các ứng dụng khác như Google, Facebook, các công cụ của Google.
-3. Sửa lại cách quản lí dữ liệu, Phân chia dữ liệu ra một cách hợp lí, dễ tìm kiếm khi cần.
+1. Nâng nhóm "Vận hành thiết bị và phần mềm", nâng lên bằng cách là không chỉ ấn vào những phần vô thức mà phải thực sự biết mình đang ấn gì, sau khi ấn sẽ có chuyện gì xảy ra, biết được một phầm mềm mình dùng hằng ngày sẽ hoạt động như thế nào. Mốc thời gian là từ 1/10 đến 10/10.
+2. Nâng nhóm "Sáng tạo nội dung số", nâng lên bằng cách tìm hiểu chi tiết về nội dung số, các kĩ năng, các mãng của nội dung số. Mốc thời gian:10/10 đến 20/10
+3. Nâng nhóm "Học tập và phát triển kỹ năng số", nâng lên bằng cách học cách sử dụng những công cụ mới giúp ích cho việc học, tự tìm hiểu về công cụ chứ không quá phụ thuộc vào sự chỉ bảo của người khác". Mốc thời gian: 20/10 đến 31/10.
 
 ## Tôi đã làm việc với AI thế nào
 
