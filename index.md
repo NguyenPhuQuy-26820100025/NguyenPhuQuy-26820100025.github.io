@@ -31,7 +31,7 @@ Sáu bài, sáu trang, một hành trình.
 | 4 | [Dấu chân số của tôi](digital.md) | Bảy nhóm năng lực số, kèm bằng chứng |
 | 5 | [Soi một công cụ AI](ai-audit.md) | Thí nghiệm nhỏ, và năm quy tắc của tôi |
 | 6 | [Nhìn lại học kỳ](reflection.md) | Tôi đã thay đổi thế nào |
-
+| 7 | [Góc học tập của tôi](hoctap.md) | Nơi lưu bài tập, ghi chép và tài liệu |
 Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
