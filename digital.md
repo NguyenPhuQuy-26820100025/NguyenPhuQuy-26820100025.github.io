@@ -6,7 +6,10 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-Nguyễn Phú Quý có thể là tên của một số nhân vật nổi bật tại Việt Nam, bao gồm nam ca sĩ dòng nhạc trữ tình/bolero (thường viết là Nguyễn Phú Quí) hoặc doanh nhân trong lĩnh vực du lịch, bất động sản.
+Nguyễn Phú Quý là sinh viên tại Trường Đại học Công nghệ TP.HCM (HUTECH), người từng đạt được một số thành tích nổi bật trong học tập và các cuộc thi của trường:
+• Giải Ba cuộc thi AI Challenge 2025: Đạt giải Ba vào tháng 3 năm 2025 với tư cách sinh viên lớp 22DTHG8.
+• Giải Khuyến khích HUTECH IT Got Talent 2018: Đạt giải với ứng dụng "HUTECHreader - App dịch thuật ngôn ngữ thông qua nhận diện hình ảnh và giọng nói" (khi thuộc lớp 15DTH13, Khoa Công nghệ thông tin).
+• Giải Nhất cuộc thi Thiết kế mô hình 2022: Đạt giải Nhất với tác phẩm "Phi hành gia đầu tiên của Việt Nam bay vào vũ trụ 1980" do Khoa Kiến trúc - Mỹ thuật tổ chức.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
