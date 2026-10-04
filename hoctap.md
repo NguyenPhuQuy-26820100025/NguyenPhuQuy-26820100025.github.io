@@ -4,38 +4,50 @@
 **Liên hệ:** [quynguyen14908@gmail.com] · **Cập nhật:** [4/10/2026]
 
 ---
+# Hãy ngủ đủ giấc, yêu bản thân và hãy vì chính bản thân.
 
-## 🎯 Mục tiêu hiện tại
-- [ ] [Cố gắng học Ielts để có một chứng chỉ tiếng Anh.]
-- [ ] [Hoàn thành xuất sắc chương trình học ở học kì 1.]
+## 📅 Lịch học kỳ
+- 
+- 
+- 
+
+## 📚 Học phần đang học
+- Nhập Môn ngành khoa học máy tính
+- Tư duy thiết kế dự án.
+- Anh Ngữ 1.
+- Quốc phòng 1.
+
+## 📂 Tài liệu theo môn
+- update sau
+- 
+- 
 
 ## ✅ Việc cần làm
-| Việc gì | Hạn | Bước tiếp theo nhỏ nhất |
-|---|---|---|
-| Chuẩn bị bài thuyết trình cho môn Tư Duy Thiết Kế Dự Án | 8/10/2026 | Tập hợp lại ý tưởng từ các thành viên trong nhóm để đề xuất nội dung thuyết trình |
+- Ngủ đủ giấc. 
+- Làm đủ bài tập, làm kịp deadline.
+- Học, trao dồi thêm tiếng Anh.
 
-## 🗂️ Học kỳ & môn học
 
-### 2026-HK1
-| Môn | Bài tập | Ghi chép | Tài liệu |
-|---|---|---|---|
-| COS673 – Nhập môn ngành | [Bài tập](./2025-HK1/COS673/bai-tap) | [Ghi chép](./2025-HK1/COS673/ghi-chep) | [Tài liệu](./2025-HK1/COS673/tai-lieu) |
-| [Môn 2] | [Bài tập](./2025-HK1/MON2/bai-tap) | [Ghi chép](./2025-HK1/MON2/ghi-chep) | [Tài liệu](./2025-HK1/MON2/tai-lieu) |
+---
 
-### 2026-HK2
-*(chưa có)*
+## 👨‍💻 Dự án & Portfolio
 
-## 🧑‍💻 Dự án & Portfolio
 | Dự án | Mô tả ngắn | Liên kết |
 |---|---|---|
 | [Tên dự án] | [Mô tả] | [Xem](./HoSo/ten-du-an) |
 
+
 ## 🔗 Tài nguyên hữu ích
+
 - [Tên tài nguyên](https://...)
 - [Tên tài nguyên](https://...)
+
 
 ## ❓ Câu hỏi còn chưa hiểu
-- [ ] [ Câu hỏi 1]
+- Cách để giao tiếp giọng như người nước ngoài
+- chưa biết rất nhiều thứ.
+
 
 ---
-<sub>Quy ước đặt tên tệp: `YYYY-MM-DD_MãMôn_TênBài_v0.đuôi`</sub>
+
+<sub>Quy ước đặt tên tệp: YYYY-MM-DD_MãMôn_TênBài_v0.đuôi</sub>
