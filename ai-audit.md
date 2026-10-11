@@ -4,7 +4,7 @@ title: Soi một công cụ AI
 
 # Soi một công cụ AI
 
-**Công cụ đã thử:** Gemini Pro · **Ngày thử:** 10/10/2026
+**Công cụ đã thử:** Gemini Pro · **Ngày thử:** 10-11/10/2026
 
 ## Bảng kiểm thử năm câu
 
