@@ -8,7 +8,7 @@ title: Soi một công cụ AI
 > Chọn năm câu mà em **đã biết chắc đáp án**. Hỏi thứ mình không biết
 > thì không có gì để đối chiếu, và mọi câu trả lời đều nghe hợp lý như nhau.
 
-**Công cụ đã thử:** Gemini Pro · **Ngày thử:** 9/10/2026
+**Công cụ đã thử:** Gemini Pro · **Ngày thử:** 10/10/2026
 
 ## Bảng kiểm thử năm câu
 
@@ -18,7 +18,7 @@ title: Soi một công cụ AI
 | 2 | Tổng số học phần của ngành Khoa Học Máy Tính tại đại học Hutech | Tổng số học phần toàn khóa: Khoảng 48 đến 52 học phần (môn học). | Sai| Tổng số học phần của ngành Khoa HỌc Máy Tính tại đại học Hutech tính luôn cả đồ án tốt nghiệp là 67 học phần. | Tôi đã dựa trên file sơ đồ đào tạo Ngành Khoa Học Máy Tính mà trường đã cung cấp | AI có thể bịa hoàn toàn những thông tin mà nó không biết. |
 | 3 | sin^2(x) + cos^2(x) =? | sin^2(x) + cos^2(x) =1 | Đúng | Không có | Dựa vào kiến thức đại số toán lớp 11 | AI có thể trả lời các kiến thức cơ bản, chương trình đại trà một cách cơ bản. |
 | 4 | Thời gian bắt đầu tiết 1 tại Đại Học Hutech | Tiết 1 bắt đầu vào lúc 7h30 sáng | Sai | Tiết 1 tại Đại học Hutech bắt đầu vào lúc 6h40 sáng. | Vào trang Hutech.edu.vn để kiểm chứng | AI có thể dựa vào các nguồn có thể liên quan để trả lời câu hỏi. |
-| 5 | … | … | … | … | … | … |
+| 5 | Trường THPT Võ Văn Kiệt tỉnh Vĩnh Long năm học 2025-2026 có bao nhiêu lớp học? | 30-33 lớp học | Sai | Năm học 2025-2026 tại trường có tới 36 lớp học | Từng là học sinh của Trường THPT Võ Văn Kiệt năm 2025-2026 | AI có thể phỏng đoán ra một con số mặc dù không biết được sự thật. |
 
 Chép **nguyên văn** câu trả lời, kể cả chỗ nó nói đúng. So hai bên mới thấy
 giọng của nó không đổi dù đúng hay sai.
@@ -39,7 +39,7 @@ Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Hỏi AI về những câu hỏi về kiến thức, những câu hỏi về địa phương của tôi đang sinh sống ( những câu hỏi mà tôi biết hết 100% câu trả lời nhưng vẫn hỏi AI vì muốn kiểm chứng AI). |
+| **Hoài** | Hoài nghi những câu mà AI trả lời, nhưng câu riêng của địa phương nhưng AI vẫn trả lời một cách rất tự nhiên, trơn tru. Nghi ngờ những nguồn mà AI đã lấy thông tin để trả lời. |
+| **Học** | Truy vấn từ những nguồn thông tin mà AI đưa ra, kiểm chứng những thông tin đó và sau đó đối chiếu với những kiến thức đã biết trong đầu, xem có phù hợp không và sau đó xem những nguồn ấy có đúng với những trường hợp khác không như là có phù hợp với những năm trước đó không. |
+| **Hành** | Kiểm chứng được độ đáng tin cậy của AI khi hỏi về nhưng thông tin có địa phương riêng biệt, hoặc những thứ mà ít có nguồn thông tin nào về chúng, cảnh giác được về AI, không phải lúc nào AI cũng đúng. |
