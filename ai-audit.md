@@ -23,11 +23,11 @@ giọng của nó không đổi dù đúng hay sai.
 
 Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
 
-1. AI LÀ TRỢ LÝ, KHÔNG LÀ BỘ NÃO THAY THẾ ( Tự suy nghĩ cách giải quyết trước khi hỏi AI, AI giúp tôi nâng cấp tư duy chứ không tư duy hộ tôi).
-2. KHÔNG COPY — PHẢI CÓ CHẤT RIÊNG ( Phải biết chọn lọc, biết phản biện trước những thông tin mà AI đưa ra). 
+1. AI LÀ TRỢ LÝ, KHÔNG LÀ BỘ NÃO THAY THẾ ( Tự suy nghĩ cách giải quyết trước khi hỏi AI, AI giúp tôi nâng cấp tư duy chứ không tư duy hộ tôi, tự suy nghĩ ra những câu hỏi mà AI không biết chứ không hỏi AI ).
+2. KHÔNG COPY — PHẢI CÓ CHẤT RIÊNG ( Phải biết chọn lọc, biết phản biện lại những giả định mà AI đưa ra trong vai Sparring ). 
 3. DỮ LIỆU CỦA TÔI — RANH GIỚI CỦA TÔI ( Bảo mật thông tin cá nhân, không cung cấp bừa bãi thông tin cá nhân của bản thân cho AI).
-4. KHÔNG TIN MÙ — LUÔN DEBUG SỰ THẬT ( Tôi xem mọi câu trả lời của AI như một giả thuyết cần kiểm chứng. Tôi đối chiếu nguồn và kiểm tra logic trước khi chấp nhận kết quả).
-5. KHÔNG HỌC CÁCH GIỎI HƠN AI- HỌC CÁCH ĐỨNG TRÊN AI ( Tôi khong bắt buộc bản thân phải hiểu biết hơn AI, đơn giản bởi vì điều đó là không thể, mà thay vào đó hãy học cách sử dụng AI đúng cách và hiệu quả).
+4. KHÔNG TIN MÙ — LUÔN DEBUG SỰ THẬT ( Tôi xem mọi câu trả lời của AI như một giả thuyết cần kiểm chứng, tôi chất vấn nguồn mà AI đã đưa ra . Tôi đối chiếu nguồn và kiểm tra logic trước khi chấp nhận kết quả).
+5. KHÔNG HỌC CÁCH GIỎI HƠN AI- HỌC CÁCH ĐỨNG TRÊN AI ( Tôi không bắt buộc bản thân phải hiểu biết hơn AI, đơn giản bởi vì điều đó là không thể, mà thay vào đó hãy học cách sử dụng AI đúng cách và hiệu quả).
 
 **Quy tắc tôi thấy khó giữ nhất là số 2 **, vì không phải lúc nào mình cũng có đủ thời gian để kiểm chứng, đối chiếu thông tin về một vấn đề nào đó mà AI đã cung cấp.
 
