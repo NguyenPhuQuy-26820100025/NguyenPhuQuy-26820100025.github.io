@@ -53,8 +53,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
 - Phía luật sư công ty lập luận rằng: Chỉ là thu thập dữ liệu thô, Vị trí không định danh và chỉ mang tính nhất thời vì deadline ngày mai, không ảnh hưởng tới lâu dài.
-- Phía người dùng lập luận rằng:Cảm giác như bị giám sát tạm thời, yêu cầu ngừng ngay chính sách và tuân thủ các nguyên tắc đã thỏa thuận giữa hai bên. 
-- **Quyết định của tôi**, và vì sao: Nếu tôi là thành viên của công ty toioi sẽ yêu cầu hỏi người dùng một cách trực tiếp và nhanh nhất để nghe ý kiến người dùng, còn nếu tôi là người dùng thì sẽ không chấp nhận sự việc này.
+- Phía người dùng lập luận rằng: Cảm giác như bị giám sát tạm thời, yêu cầu ngừng ngay chính sách và tuân thủ các nguyên tắc đã thỏa thuận giữa hai bên. 
+- **Quyết định của tôi**, và vì sao: Nếu tôi là thành viên của công ty tôi sẽ yêu cầu hỏi người dùng một cách trực tiếp và nhanh nhất để nghe ý kiến người dùng, còn nếu tôi là người dùng thì sẽ không chấp nhận sự việc này.
 
 ## Ba việc tôi làm trong học kỳ này
 
@@ -71,6 +71,6 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Hỏi** | Đưa 3 tin tuyển dụng cho AI yêu cầu AI phân tích và làm theo bản mẫu có sẵn. |
 | **Hoài** | Hoài nghi dữ liệu mà AI đã cung cấp, có vài dòng mà AI đã tự thêm vô vì nhầm lẫn các kí tự trong văn bản |
 | **Học** | Học cách đặt câu hỏi cho AI, nguồn này trong thông tin đưa hay bạn tự thêm vào, hỏi AI các chi tiết trong thông tin tuyển dụng, hỏi AI bạn sẽ trả lời như thế nào nếu bạn là luật sư của công ty hay là người dùng sản phẩm. |
-| **Hành** | Tự tay rà soát lại toàn bộ thông tin, chỉnh sửa lại những chỗ AI bịa ra, nhưng thông tin không liên quan |
+| **Hành** | Tự tay rà soát lại toàn bộ thông tin, chỉnh sửa lại những chỗ AI bịa ra, những thông tin không liên quan |
 
 Công cụ đã dùng: Gemini Pro.
