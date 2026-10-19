@@ -105,7 +105,7 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ 2, vì em sẽ học hết phần toán còn lại, học dồn lên 22 tín chỉ và làm quen với Kỹ thuật lập trình cùng với Cơ sở dữ liệu
+- Kỳ nặng nhất là kỳ 2, vì em sẽ học hết phần toán còn lại, học dồn lên 22 tín chỉ và làm quen với Kỹ thuật lập trình cùng với Cơ sở dữ liệu.
 - Môn Kỹ thuật lập trình phải học trước môn Thực hành kỹ thuật lập trình vì mình phải học nền tảng cơ bản, các kiến thức nền trước rồi mới có thể thực hiện được.
 - Kỳ 1 tôi để nhẹ vì đây là khoản thời gian mới vào học lại, còn chập chững và cần phải làm quen nhiều với ngành bản thân.
 
@@ -113,15 +113,15 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 **Chỗ thứ nhất**
 
-- AI nói: AI đã đưa dữ liệu không liên quan vào: Kỹ thuật dữ liệu cao cấp(3TC)
-- Bảng chương trình đào tạo thật ra ghi: Không có dữ liệu liên quan
+- AI nói: AI đã đưa dữ liệu không liên quan vào: Kỹ thuật dữ liệu cao cấp ( 3TC ).
+- Bảng chương trình đào tạo thật ra ghi: Không có dữ liệu liên quan.
 - Tôi sửa thành: Xóa nó.
 
 **Chỗ thứ hai**
 
-- AI nói: AI đưa thông tin đồ án tốt nghiệp Khoa học máy tính là 10 tín chỉ
-- Bảng chương trình đào tạo thật ra ghi: 9 tín chỉ
-- Tôi sửa thành: 9 tín chỉ
+- AI nói: AI đưa thông tin đồ án tốt nghiệp Khoa học máy tính là 10 tín chỉ.
+- Bảng chương trình đào tạo thật ra ghi: 9 tín chỉ.
+- Tôi sửa thành: 9 tín chỉ.
 
 ## Tôi đã làm việc với AI thế nào
 
