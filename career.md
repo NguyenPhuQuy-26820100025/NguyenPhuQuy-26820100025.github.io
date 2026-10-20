@@ -25,8 +25,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | Công Ty Cổ Phần ASOFT | TP Hồ Chí Minh | https://vn.indeed.com/viewjob?jk=1a24bf3b239aecfd&from=shareddesktop_copy | 15/09/2026 |
-| 2 | Công ty TNHH BTASKEE | TP Hồ Chí Minh | https://share.google/XpnLFAHbNInwe9E4b | 15/09/2026 |
+| 1 | Công Ty Cổ Phần ASOFT | Tầng 3, Tòa nhà JVPE, Công viên phần mềm Quang Trung, Phường Trung Mỹ Tây, Thành phố Hồ Chí Minh. | https://vn.indeed.com/viewjob?jk=1a24bf3b239aecfd&from=shareddesktop_copy | 15/09/2026 |
+| 2 | Công ty TNHH BTASKEE | Lý Thường Kiệt, Phường Diên Hồng (trước đây là Phường 14), Quận 10, Thành phố Hồ Chí Minh, Việt Nam | https://share.google/XpnLFAHbNInwe9E4b | 15/09/2026 |
 | 3 | Công ty TNHH Tư Vấn Nhân Sự Kokoro | TP Hồ Chí Minh | https://share.google/AUwYoG7wxNA98EZrJ | 15/09/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong [thư mục anh/](./anhdontuyenviec).
