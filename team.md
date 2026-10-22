@@ -9,13 +9,11 @@ title: Cẩm nang làm việc nhóm
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
-> Đây là phần lõi của Playbook — một vấn đề học tập có thật mà nhóm đã đo, tìm nguyên nhân gốc, thử giải pháp và rút cẩm nang cho khoá sau. Đủ năm phần mới tính.
-
 ### 1. Vấn đề
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Cả nhóm đang trễ hạn bài tập của môn Tư Duy Thiết Kế Dự Án.
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Cả nhóm đang gần trễ hạn thuyết trình của môn Tư Duy.
 
 **Vấn đề thật (sau khi bóc):** Mọi người hoạt động thực sự chưa đồng bộ, không hiểu ý và làm độc lập riêng lẽ.
 
