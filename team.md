@@ -4,10 +4,8 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-> **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
-> nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:**  Anyone is legend · **Thành viên:** Phú Quý, Tâm Như, Hữu Đức, Minh Khang, Trung Sỹ.
+**Nhóm:**  Anyone is legend · **Thành viên:**Nguyễn Phú Quý,Lê Tâm Như,Phạm Hữu Đức,Bùi Minh Khang,Trần Trung Sỹ.
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -17,9 +15,9 @@ title: Cẩm nang làm việc nhóm
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Cả nhóm đang gần trễ hạn bài tập.
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Cả nhóm đang trễ hạn bài tập của môn Tư Duy Thiết Kế Dự Án.
 
-**Vấn đề thật (sau khi bóc):** Mọi người làm việc chưa thực sự hiểu ý với nhau.
+**Vấn đề thật (sau khi bóc):** Mọi người hoạt động thực sự chưa đồng bộ, không hiểu ý và làm độc lập riêng lẽ.
 
 *Người viết phần này: Nguyễn Phú Quý *
 
@@ -41,10 +39,10 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao [vấn đề xảy ra]? → 
-2. Vì sao [câu trả lời 1]? →  Vì các thành viên chưa hoàn thành phần việc được giao đúng thời hạn.
+1. Vì sao [vấn đề xảy ra]? → Vì các thành viên chưa hoàn thành phần việc được giao đúng thời hạn.
+2. Vì sao [câu trả lời 1]? → Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
 
-3. Vì sao [câu trả lời 2]? → Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
+3. Vì sao [câu trả lời 2]? → Vì chưa xác định được công việc cụ thể và vẫn chưa nắm rõ được mức độ quan trọng/ ưu tiên của công việc.
 4. Vì sao [câu trả lời 3]? → Vì nhóm chưa phân công công việc của từng người cụ thể và thống nhất thời hạn một cách rõ ràng ngay từ đầu.
 5. Vì sao [câu trả lời 4]? → Vì mọi người thiếu sự phối hợp, trách nhiệm và quản lí công việc của từng người trong nhóm. *(nguyên nhân gốc)*
 
@@ -60,7 +58,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | … | … | … | … | … |
 | … | … | … | … | … |
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Hữu Đức *
 
 ### 5. Cẩm nang cho người sau
 
@@ -73,7 +71,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 **Cảnh báo cụ thể cho nhóm khoá sau:** Nên giành nhiều thời gian để trao đổi và đưa ra những ý kiến phù hợp, tập trung vào phần còn thiếu xót hay điểm yếu của nhóm mà sửa chữa khắc phục kịp thời.
 
-*Người viết phần này: Huỳnh Minh Khang *
+*Người viết phần này: Bùi Minh Khang *
 
 ## 1. Cách chia việc
 
@@ -91,7 +89,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
 
-Họp ở sân trường ĐH Hutech, mỗi ngày một lần, mỗi lần 60 phút, sau cuối mỗi buổi họp thì trưởng nhóm sẽ đưa ra kết luận.
+Họp ở thư viện của trường ĐH Hutech, mỗi ngày một lần, mỗi lần 60 phút, sau cuối mỗi buổi họp thì trưởng nhóm sẽ đưa ra kết luận.
 
 *Người viết phần này: Nguyễn Phú Quý *
 
