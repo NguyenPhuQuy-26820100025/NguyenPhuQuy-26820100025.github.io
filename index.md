@@ -14,7 +14,7 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng Kỹ sư
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-…@… · <https://nguyenphuquy-26820100025.github.io/>
+ quynguyen14908@gmail.com  · <https://nguyenphuquy-26820100025.github.io/>
 
 <!-- ================= hết phần tóm tắt ================= -->
 
