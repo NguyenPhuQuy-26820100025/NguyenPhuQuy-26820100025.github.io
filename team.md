@@ -128,7 +128,9 @@ Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng g
 Khi các thành viên có ý kiến khác nhau, nhóm sẽ lắng nghe từng ý kiến của mỗi người trong nhóm để phân tích ưu/nhược điểm của mỗi ý kiến được đưa ra, từ đó có thể chọn được ý kiến tối ưu nhất. Nếu vẫn chưa chọn được ý kiến nào thì sẽ đưa ra phương án bình chọn và dựa trên số lượng mỗi người đồng ý với ý kiến nào để có thể thống nhất 1 phương án làm việc chung. 
 
 ## Tôi đã làm việc với AI thế nào
+
 Bài này nhóm không dùng AI
+
 | Bước | Nhóm đã làm gì |
 |---|---|
 | **Hỏi** | Không |
