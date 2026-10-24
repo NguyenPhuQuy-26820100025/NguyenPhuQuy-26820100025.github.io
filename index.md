@@ -10,9 +10,10 @@ title: Hồ sơ nhập ngành
 
 Sinh viên năm nhất Khoa học máy tính · đang đi về hướng Kỹ sư Dữ liệu.
 
-- … việc đã làm số 1, kèm một con số → [career.md](career.md)
-- … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
+- 3 bảng CV, 2 thông tin AI thêm mà tôi đã tự bắt được. → [career.md](career.md)
+- Bảng đồ học tập cho 8 học kì trong 4 năm, 2 lỗi sai của AI → [roadmap.md](roadmap.md)
+- 5 câu hỏi tôi biết kết quả và đã thử thách AI, 5 quy tức dùng AI → [ai-audit.md](ai-audit.md)
+- 7 nhóm năng lực tự chấn, 4 việc sẽ sửa, 3 mẫu phát hiện lừa đảo → [digital.md](digital.md)
 
  quynguyen14908@gmail.com  · <https://nguyenphuquy-26820100025.github.io/>
 
@@ -37,4 +38,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ:quynguyen14908@gmail.com*
+*Cập nhật lần cuối: 25/10/2026 · Liên hệ:quynguyen14908@gmail.com*
