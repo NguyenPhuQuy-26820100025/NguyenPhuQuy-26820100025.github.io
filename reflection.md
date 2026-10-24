@@ -11,7 +11,7 @@ title: Nhìn lại học kỳ
 
 Đọc lại trang Bài 1 rồi trả lời: điều gì tôi tin hồi đó mà giờ không còn tin nữa?
 
-…
+Hồi đó tôi đã suy nghĩ và tin rằng khi mình học nghành Khoa học máy tính hoặc Công nghệ thông tin thì mình chỉ cần học giỏi code, chỉ có viết code và sáng tạo ra những dòng code mới. Nhưng sau khi trải qua các bài học thì tôi đã nhận ra rằng nghành Khoa học máy tính và Công nghệ thông tin khi học thì không chỉ có viết code mà còn học rất nhiều phần mềm khác liên quan, cũng như khi đi làm không chỉ viết code mới mà đa số sẽ là sửa code và fix các dòng code.
 
 ## Trang tôi làm tốt nhất
 
