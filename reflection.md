@@ -26,9 +26,9 @@ Tôi sẽ viết lại trang " Chân dung nghề của tôi", theo cách thật 
 
 ## Ba điều tôi mang sang học kỳ sau
 
-1. Sẽ tiếp tục sử dụng AI cho các học phần tiếp theo. ( Vốn dĩ trước khi học môn học phần này thì tôi gần như là không sử dụng AI bởi vì có chút nghi ngờ và muốn tự sử dụng năng lực thật sự của bản thân).
-2. …
-3. …
+1. Sẽ tiếp tục sử dụng công cụ AI cho các học phần tiếp theo, đặc biệt là tôi sẽ bật chế độ học tập có hướng dẫn khi mà sử dụng công cụ AI. ( Vốn dĩ trước khi học môn học phần này thì tôi gần như là không sử dụng AI bởi vì có chút nghi ngờ và muốn tự sử dụng năng lực thật sự của bản thân).
+2. Sẽ mang theo bảng sắp xếp học phần cho tám kì tiếp theo để mà sử dụng.
+3. Mang theo 5 quy tắc dùng AI của riêng tôi ở bài 5 sang học kì sau.
 
 ## Đoạn tự giới thiệu chín mươi giây
 
