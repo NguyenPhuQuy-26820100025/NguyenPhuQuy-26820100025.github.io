@@ -29,10 +29,11 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 | Công ty TNHH BTASKEE | Lý Thường Kiệt, Phường Diên Hồng (trước đây là Phường 14), Quận 10, Thành phố Hồ Chí Minh, Việt Nam | https://share.google/XpnLFAHbNInwe9E4b | 15/09/2026 |
 | 3 | Công ty TNHH Tư Vấn Nhân Sự Kokoro | TP Hồ Chí Minh | https://share.google/AUwYoG7wxNA98EZrJ | 15/09/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong [thư mục anh/](./anhdontuyenviec).
-| 1 | ASOFT  [Xem ảnh](anhdontuyenviec/anhcongtyASOFT.png) | 16/09/2026 |
-| 2 | BTASTKEE  [Xem ảnh](anhdontuyenviec/anhcongtyBTASTKEE.png) | 16/09/2026 |
-| 3 | Tư vấn nhân sự  [Xem ảnh](anhdontuyenviec/anhcongtytuvannhansu.png) | 16/09/2026 |
+| STT | Công ty | Ảnh chụp | Ngày |
+| --- | --- | --- | --- |
+| 1 | ASOFT | [Xem ảnh](anhdontuyenviec/anhcongtyASOFT.png) | 16/09/2026 |
+| 2 | BTASTKEE | [Xem ảnh](anhdontuyenviec/anhcongtyBTASTKEE.png) | 16/09/2026 |
+| 3 | Tư vấn nhân sự | [Xem ảnh](anhdontuyenviec/anhcongtytuvannhansu.png) | 16/09/2026 |
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
