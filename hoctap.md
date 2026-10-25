@@ -1,7 +1,7 @@
 # 📚 Góc học tập của [Nguyễn Phú Quý]
 
 **Ngành:** [Khoa học máy tính] · **Trường:** [Đại học Công Nghệ TP HỒ Chí Minh] · **Khóa:** [2026]
-**Liên hệ:** [quynguyen14908@gmail.com] · **Cập nhật:** [4/10/2026]
+**Liên hệ:** [quynguyen14908@gmail.com] · **Cập nhật:** [25/10/2026]
 
 ---
 # Hãy ngủ đủ giấc, yêu bản thân và hãy vì chính bản thân.
