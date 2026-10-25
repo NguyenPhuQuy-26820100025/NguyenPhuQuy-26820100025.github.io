@@ -9,7 +9,7 @@
 ## 📅 Lịch học kỳ
 - 7:30 ngày 6/11/2026 Thi môn Anh Ngữ 1.
 - 7:30 ngày 13/11/2026 Thi môn Quốc phòng, an ninh 1.
-- Hoàn thành 100% tiến độ LMS của Môn Nhập KHMT trước 31/10.
+- Hoàn thành 100% tiến độ LMS của Môn Nhập môn nghành KHMT trước 31/10.
 
 ## 📚 Học phần đang học
 - Nhập Môn ngành khoa học máy tính
