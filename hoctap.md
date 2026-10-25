@@ -1,15 +1,15 @@
 # 📚 Góc học tập của [Nguyễn Phú Quý]
 
-**Ngành:** [Khoa học máy tính] · **Trường:** [Đại học Công Nghệ TP HỒ Chí MInh] · **Khóa:** [2026]
+**Ngành:** [Khoa học máy tính] · **Trường:** [Đại học Công Nghệ TP HỒ Chí Minh] · **Khóa:** [2026]
 **Liên hệ:** [quynguyen14908@gmail.com] · **Cập nhật:** [4/10/2026]
 
 ---
 # Hãy ngủ đủ giấc, yêu bản thân và hãy vì chính bản thân.
 
 ## 📅 Lịch học kỳ
-- 
-- 
-- 
+- 7:30 ngày 6/11/2026 Thi môn Anh Ngữ 1.
+- 7:30 ngày 13/11/2026 Thi môn Quốc phòng, an ninh 1.
+- Hoàn thành 100% tiến độ LMS của Môn Nhập KHMT trước 31/10.
 
 ## 📚 Học phần đang học
 - Nhập Môn ngành khoa học máy tính
@@ -17,10 +17,6 @@
 - Anh Ngữ 1.
 - Quốc phòng 1.
 
-## 📂 Tài liệu theo môn
-- update sau
-- 
-- 
 
 ## ✅ Việc cần làm
 - Ngủ đủ giấc. 
@@ -34,13 +30,13 @@
 
 | Dự án | Mô tả ngắn | Liên kết |
 |---|---|---|
-| [Tên dự án] | [Mô tả] | [Xem](./HoSo/ten-du-an) |
+| Chưa có | không | [Xem](./HoSo/ten-du-an) |
 
 
 ## 🔗 Tài nguyên hữu ích
 
-- [Tên tài nguyên](https://...)
-- [Tên tài nguyên](https://...)
+- [Từ điển Tiếng Anh](https://dictionary.cambridge.org/vi/dictionary/english/)
+- [Tài liệu từ học Ielts ](https://drive.google.com/drive/folders/1qSeboS6l0FuSGmbKhI_y3hc7t-qmvubi?usp=sharing)
 
 
 ## ❓ Câu hỏi còn chưa hiểu
