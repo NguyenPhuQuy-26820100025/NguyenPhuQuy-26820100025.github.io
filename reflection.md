@@ -32,6 +32,6 @@ Tôi sẽ viết lại trang " Chân dung nghề của tôi", theo cách thật 
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: …
+Đường dẫn: https://youtu.be/xvprj_3BERQ
 
 Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
